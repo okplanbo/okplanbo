@@ -1,0 +1,22 @@
+[user]
+	name = okplanbo
+	email = 26038255+okplanbo@users.noreply.github.com
+
+[core]
+	autocrlf = false
+[alias]
+	st = status
+	cm = commit -m
+	amd = commit --amend --no-edit
+	cma = commit -a -m
+	br = branch
+	co = checkout
+	df = diff
+	sh = stash
+	sha = stash apply
+	shp = stash pop
+	shl = stash list	
+	poh = push origin head
+	pohf = push -f origin head
+[gc]
+	auto = 0
