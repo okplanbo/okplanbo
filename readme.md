@@ -10,5 +10,5 @@ Coding aside I'm also passionate about:
 - 🧠 Brain science
 - ⚡ Energy studies
 
-⬅️ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/boris-webdev/)\
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/boris-webdev/)\
 Or just e-mail me: callmebo at proton dot me
