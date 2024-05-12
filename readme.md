@@ -39,6 +39,8 @@ Toolbox:
 <img src="https://img.shields.io/badge/BeautifulSoup-blue" /> 
 <img src="https://img.shields.io/badge/Pandas-blue" /> 
 <img src="https://img.shields.io/badge/Three.js-blue" /> 
+<img src="https://img.shields.io/badge/SQL-blue" /> 
+<img src="https://img.shields.io/badge/RegEx-blue" /> 
 <img src="https://img.shields.io/badge/Figma-blue" /> 
 <img src="https://img.shields.io/badge/VSCode-blue" /> 
 <img src="https://img.shields.io/badge/Node.js-blue" /> 
