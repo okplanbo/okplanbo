@@ -1,6 +1,6 @@
-## Gamarjoba megobrebi! 🤝🤝🤝 Call me Bo
+## Hi 👋 I'm Bo
 
-### Professionally crafting lines of code for enterprise applications since 2018.
+### Crafting code for enterprise applications since 2018.
 
 Coding aside I'm also passionate about:
 - 🧠 ✨ AI, ML, Neuroscience
