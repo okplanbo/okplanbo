@@ -22,11 +22,14 @@ Toolbox:
 <img src="https://img.shields.io/badge/HTML-blue" /> 
 <img src="https://img.shields.io/badge/CSS-blue" />
 <img src="https://img.shields.io/badge/LESS-blue" />
+<img src="https://img.shields.io/badge/CSS_Modules-blue" />
 <img src="https://img.shields.io/badge/Bootstrap-blue" /> 
 <img src="https://img.shields.io/badge/Tailwind-blue" /> 
 <img src="https://img.shields.io/badge/Styled_components-blue" />
 <img src="https://img.shields.io/badge/WCAG-blue" /> 
 <img src="https://img.shields.io/badge/Git_cli-blue" /> 
+<img src="https://img.shields.io/badge/Conventional_Commits-blue" /> 
+<img src="https://img.shields.io/badge/Semantic_Release-blue" /> 
 <img src="https://img.shields.io/badge/CI/CD-blue" />
 <img src="https://img.shields.io/badge/AWS-blue" /> 
 <img src="https://img.shields.io/badge/Heroku-blue" /> 
@@ -43,5 +46,4 @@ Toolbox:
 <img src="https://img.shields.io/badge/RegEx-blue" /> 
 <img src="https://img.shields.io/badge/Figma-blue" /> 
 <img src="https://img.shields.io/badge/VSCode-blue" /> 
-<img src="https://img.shields.io/badge/Node.js-blue" /> 
 </div>
