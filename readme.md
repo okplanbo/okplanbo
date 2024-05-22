@@ -26,7 +26,7 @@ Toolbox:
 <img src="https://img.shields.io/badge/Bootstrap-blue" /> 
 <img src="https://img.shields.io/badge/Tailwind-blue" /> 
 <img src="https://img.shields.io/badge/Styled_components-blue" />
-<img src="https://img.shields.io/badge/WCAG-blue" /> 
+<img src="https://img.shields.io/badge/WCAG_Compliant_Markup-blue" /> 
 <img src="https://img.shields.io/badge/Git_cli-blue" /> 
 <img src="https://img.shields.io/badge/Conventional_Commits-blue" /> 
 <img src="https://img.shields.io/badge/Semantic_Release-blue" /> 
