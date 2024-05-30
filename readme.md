@@ -4,7 +4,6 @@
 
 Coding aside I'm also passionate about:
 - 🧠 ✨ AI, ML, Neuroscience
-- ⚡ Energy studies
 - 🥾 🏞️ 🌱 Hiking, Nature & Ecology
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/boris-webdev/) (auth required)\
@@ -18,16 +17,16 @@ Toolbox:
 <img src="https://img.shields.io/badge/React-blue" /> 
 <img src="https://img.shields.io/badge/Redux_Toolkit-blue" /> 
 <img src="https://img.shields.io/badge/Jest-blue" /> 
-<img src="https://img.shields.io/badge/React_testing_library-blue" /> 
+<img src="https://img.shields.io/badge/React_Testing_Library-blue" /> 
 <img src="https://img.shields.io/badge/HTML-blue" /> 
 <img src="https://img.shields.io/badge/CSS-blue" />
 <img src="https://img.shields.io/badge/LESS-blue" />
 <img src="https://img.shields.io/badge/CSS_Modules-blue" />
 <img src="https://img.shields.io/badge/Bootstrap-blue" /> 
 <img src="https://img.shields.io/badge/Tailwind-blue" /> 
-<img src="https://img.shields.io/badge/Styled_components-blue" />
+<img src="https://img.shields.io/badge/Styled_Components-blue" />
 <img src="https://img.shields.io/badge/WCAG_Compliant_Markup-blue" /> 
-<img src="https://img.shields.io/badge/Git_cli-blue" /> 
+<img src="https://img.shields.io/badge/Git_Cli-blue" /> 
 <img src="https://img.shields.io/badge/Conventional_Commits-blue" /> 
 <img src="https://img.shields.io/badge/Semantic_Release-blue" /> 
 <img src="https://img.shields.io/badge/CI/CD-blue" />
@@ -46,4 +45,5 @@ Toolbox:
 <img src="https://img.shields.io/badge/RegEx-blue" /> 
 <img src="https://img.shields.io/badge/Figma-blue" /> 
 <img src="https://img.shields.io/badge/VSCode-blue" /> 
+<img src="https://img.shields.io/badge/BrowserStack-blue" />
 </div>
