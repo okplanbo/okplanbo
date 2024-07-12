@@ -9,7 +9,7 @@ Coding aside I'm also passionate about:
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/boris-webdev/) (auth required)\
 Or just e-mail me: callmebo at proton dot me
 
-Toolbox:
+**Toolbox:**
 <div style="witdh:70%">
 <img src="https://img.shields.io/badge/JavaScript-blue" /> 
 <img src="https://img.shields.io/badge/TypeScript-blue" />
