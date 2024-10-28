@@ -7,7 +7,7 @@ Coding aside I'm also passionate about:
 - 🥾 🏞️ 🌱 Hiking, Nature & Ecology
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/boris-webdev/) (auth required)\
-Or just e-mail me: callmebo at proton dot me
+Or just e-mail me: okbodev at gmail dot com
 
 **Toolbox:**
 <div style="witdh:70%">
