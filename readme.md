@@ -16,6 +16,8 @@ Or just e-mail me: okbodev at gmail dot com
 <img src="https://img.shields.io/badge/Vite-blue" /> 
 <img src="https://img.shields.io/badge/React-blue" /> 
 <img src="https://img.shields.io/badge/Redux_Toolkit-blue" /> 
+<img src="https://img.shields.io/badge/Vue_+_Nuxt_3-blue" /> 
+<img src="https://img.shields.io/badge/Redux_Toolkit-blue" /> 
 <img src="https://img.shields.io/badge/Jest-blue" /> 
 <img src="https://img.shields.io/badge/React_Testing_Library-blue" /> 
 <img src="https://img.shields.io/badge/HTML-blue" /> 
@@ -46,4 +48,7 @@ Or just e-mail me: okbodev at gmail dot com
 <img src="https://img.shields.io/badge/Figma-blue" /> 
 <img src="https://img.shields.io/badge/VSCode-blue" /> 
 <img src="https://img.shields.io/badge/BrowserStack-blue" />
+<img src="https://img.shields.io/badge/WireMock-blue" />
+<img src="https://img.shields.io/badge/Site24x7-blue" />
+<img src="https://img.shields.io/badge/Cloudflare-blue" />
 </div>
