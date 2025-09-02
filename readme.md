@@ -9,5 +9,5 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/boris-web
 Or just e-mail me: okbodev at gmail dot com
 
 
-## Check out [okbo.dev](https://okbo.dev/) – that's where the party's actually at.
+## >>> Check out [okbo.dev](https://okbo.dev/) – that's where the party's actually at. <<<
 Why aren't you there yet?
