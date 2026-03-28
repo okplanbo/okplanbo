@@ -5,4 +5,4 @@
 That aside I'm also passionate about
 🧠 Neuroscience, hiking, clean energy, nature, ecology 🌱
 
-## >>> Check out [okbo.dev](https://okbo.dev/) – that's where the party's actually at. <<<
+## >>> Check out [okbo.dev](https://okbo.dev/?utm_source=github&utm_content=profile) – that's where the party's actually at. <<<
